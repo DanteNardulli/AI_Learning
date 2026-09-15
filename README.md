@@ -20,7 +20,7 @@ This combination allowed the pirate to progressively learn and improve its navig
 Connecting Learning to the Field of Computer Science
 What Do Computer Scientists Do and Why Does It Matter?
 
-Computer scientists design, analyze, and implement systems that solve real-world problems through computation. Their work drives innovation across industries—powering advancements in artificial intelligence, cybersecurity, data analysis, and software development. By creating intelligent systems like the Pirate Agent, computer scientists contribute to automation, optimization, and decision-making processes that improve human efficiency and safety. Ultimately, their work matters because it enables society to use technology to make data-driven, ethical, and scalable solutions to complex challenges.
+Computer scientists design, analyze, and implement systems that solve real-world problems through computation. Their work drives innovation across industries, powering advancements in artificial intelligence, cybersecurity, data analysis, and software development. By creating intelligent systems like the Pirate Agent, computer scientists contribute to automation, optimization, and decision-making processes that improve human efficiency and safety. Ultimately, their work matters because it enables society to use technology to make data-driven, ethical, and scalable solutions to complex challenges.
 
 How Do I Approach a Problem as a Computer Scientist?
 
@@ -28,7 +28,7 @@ As a computer scientist, I approach problems analytically and iteratively. I beg
 
 What Are My Ethical Responsibilities to the End User and the Organization?
 
-Ethical responsibility in computer science involves ensuring that systems are safe, transparent, and fair. As a developer, I must consider how algorithms affect users and organizations, especially regarding privacy, bias, and accountability. For example, while the Pirate Agent operates in a simulated environment, similar reinforcement learning systems used in real-world applications—like autonomous vehicles or recommendation systems—must be designed to avoid harm and protect user data. Ethically, I am responsible for ensuring that my code performs reliably, that the results are interpretable, and that the system aligns with the organization’s goals without compromising user trust or safety.
+Ethical responsibility in computer science involves ensuring that systems are safe, transparent, and fair. As a developer, I must consider how algorithms affect users and organizations, especially regarding privacy, bias, and accountability. For example, while the Pirate Agent operates in a simulated environment, similar reinforcement learning systems used in real-world applications—like autonomous vehicles or recommendation systems must be designed to avoid harm and protect user data. Ethically, I am responsible for ensuring that my code performs reliably, that the results are interpretable, and that the system aligns with the organization’s goals without compromising user trust or safety.
 
 Conclusion
 
